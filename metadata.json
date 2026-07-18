@@ -1,0 +1,6 @@
+{
+  "name": "GovNotify",
+  "description": "A high-trust government communication platform for jobs, schemes, and exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
